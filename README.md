@@ -15,9 +15,22 @@ http://nil.csail.mit.edu/6.824/2017/labs/lab-1.html   First day of classes
 
 ### LEC 2: RPC and Threads, Crawler, K/V
 ##### RPC and Threads
-
+https://github.com/AIFlow/2017-MIT-6.824/blob/master/lec/l-rpc.txt       
 ##### Crawler
-
+http://nil.csail.mit.edu/6.824/2017/notes/crawler.go
 ##### K/V
-
+http://nil.csail.mit.edu/6.824/2017/notes/kv.go
 ##### Preparation: Do Online Go tutorial (FAQ) (Question)
+https://tour.golang.org/welcome/1
+
+### LEC 3: GFS
+##### GFS
+http://nil.csail.mit.edu/6.824/2017/notes/l-gfs-short.txt
+##### Preparation: Read GFS (2003) (FAQ) (Question)
+http://nil.csail.mit.edu/6.824/2017/papers/gfs.pdf
+http://nil.csail.mit.edu/6.824/2017/papers/gfs-faq.txt
+http://nil.csail.mit.edu/6.824/2017/questions.html?q=q-gfs&lec=3
+##### Assigned: Lab 2: Raft
+http://nil.csail.mit.edu/6.824/2017/labs/lab-raft.html
+
+
