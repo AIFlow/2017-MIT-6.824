@@ -7,12 +7,17 @@ http://nil.csail.mit.edu/6.824/2017/index.html
 # 6.824 Schedule: Spring 2017 
 http://nil.csail.mit.edu/6.824/2017/schedule.html
 
-### LEC 1: Introduction
-##### Preparation: Read MapReduce (2004)
+### LEC 1: MapReduce
+##### Introduction Preparation: Read MapReduce (2004)
 https://github.com/AIFlow/2017-MIT-6.824/blob/master/paper/MapReduce_Simplied_Data_Processing_on_Large_Clusters.pdf
 ##### Assigned: Lab 1: MapReduce
-http://nil.csail.mit.edu/6.824/2017/labs/lab-1.html
-First day of classes
+http://nil.csail.mit.edu/6.824/2017/labs/lab-1.html   First day of classes
 
 ### LEC 2: RPC and Threads, Crawler, K/V
+##### RPC and Threads
+
+##### Crawler
+
+##### K/V
+
 ##### Preparation: Do Online Go tutorial (FAQ) (Question)
